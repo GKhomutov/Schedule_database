@@ -1,0 +1,16 @@
+remove room=*-*
+insert teacher=Roberson subject=Trigonometry room=1 day=1 period=1 group=1
+insert teacher=Ray subject=Trigonometry room=1 day=1 period=1 group=2
+insert teacher=Bray subject=Calculus room=2 day=2 period=1 group=1
+insert teacher=Saunders subject=Topology room=1 day=2 period=1 group=2
+insert teacher=Blalock subject=Probability room=3 day=3 period=4 group=4
+insert teacher=Gallagher subject=Combinatorics room=4 day=7 period=1 group=4
+insert teacher=Rowe subject=Calculus room=7 day=5 period=7 group=1
+print DAY PERIOD ROOM TEACHER sort GROUP TEACHER
+select subject=T*
+print DAY PERIOD ROOM TEACHER sort GROUP TEACHER
+reselect teacher=Roberson
+print DAY PERIOD ROOM TEACHER sort GROUP TEACHER
+select subject=Calculus* day=*-* group=1
+print TEACHER Day peRiod
+stop

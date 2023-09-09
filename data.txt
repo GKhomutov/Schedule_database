@@ -1,0 +1,6 @@
+Roberson; Trigonometry; 1; 1; 1; 1;
+Saunders; Topology; 1; 2; 1; 2;
+Bray; Calculus; 2; 2; 1; 1;
+Blalock; Probability; 3; 3; 4; 4;
+Rowe; Calculus; 7; 5; 7; 1;
+Gallagher; Combinatorics; 4; 7; 1; 4;

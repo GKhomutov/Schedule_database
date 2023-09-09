@@ -1,0 +1,1001 @@
+select room=655-664 group=533-118
+insert teacher=Hauser subject=Applications room=487 day=6 period=4 group=669
+insert teacher=King subject=Calculus room=49 day=3 period=6 group=312
+select teacher=Sloa* subject=Ap* room=646-502 day=6-1 group=587-617
+insert teacher=Singh subject=Algebra room=678 day=4 period=4 group=113
+select subject=* room=59-881 day=1-3 period=1-2 group=235-7
+remove teacher=* subject=* room=375-554 day=3-6
+remove room=850-795 group=663-90
+reselect teacher=Pr* subject=Ge* room=523-658 day=2-6
+insert teacher=Christian subject=Applications room=604 day=3 period=7 group=639
+select teacher=Bel* subject=Pro* day=5-1 period=1-6
+remove teacher=Ka* subject=Statistics* day=6-6 period=5-5 group=555-59
+reselect subject=Analys* room=892-307 day=5-3 period=5-7 group=581-74
+remove teacher=Redd* subject=* room=563-196 period=1-3 group=674-75
+reselect teacher=Edwa* subject=Appl* room=510-545 day=2-4 period=7-6 group=118-649
+remove teacher=Schw* subject=A* day=3-1 period=4-7
+reselect teacher=Langle* subject=Calcul* room=610-225 day=7-4 period=2-5
+remove teacher=Wren* subject=Lo* room=583-268 day=6-7 period=3-1 group=192-434
+print GROUP sort DAY GROUP PERIOD SUBJECT TEACHER
+reselect subject=Ar* room=687-902 day=6-4 period=4-2 group=412-652
+insert teacher=Sharma subject=Geometry room=309 day=6 period=7 group=68
+reselect teacher=Monroe* subject=Analys* room=177-470 day=6-6 period=5-5
+select teacher=Lyon* room=404-552 day=1-5 period=1-1
+remove teacher=Ste* subject=Statis* room=105-819 day=5-4 period=6-5 group=446-365
+reselect teacher=Wil* room=753-491 period=2-6 group=62-448
+select period=5-2 group=500-487
+print GROUP PERIOD ROOM SUBJECT TEACHER sort DAY PERIOD ROOM SUBJECT TEACHER
+remove teacher=Fr* subject=Analysis* room=936-3 day=1-4 period=2-1
+insert teacher=Craven subject=Programming room=681 day=6 period=3 group=105
+reselect teacher=Pucke* subject=P* room=71-813 day=6-3 period=7-5 group=103-34
+remove teacher=Fi* subject=Ge* room=78-810 day=5-6 period=2-7 group=198-422
+reselect room=138-871 day=6-6 period=4-6 group=537-310
+select teacher=Ran* subject=Combinat* room=536-305 day=4-4 period=7-2 group=500-318
+select teacher=Hu* room=520-700 day=6-2 period=6-4 group=526-11
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY SUBJECT
+insert teacher=Goodman subject=NumberTheory room=286 day=2 period=4 group=636
+print PERIOD SUBJECT sort TEACHER
+insert teacher=Nash subject=Probability room=43 day=3 period=3 group=511
+insert teacher=Rouse subject=Statistics room=744 day=4 period=5 group=465
+insert teacher=Conrad subject=Arithmetic room=832 day=2 period=3 group=642
+insert teacher=Beasley subject=Combinatorics room=127 day=2 period=2 group=479
+reselect subject=A* room=619-941 group=371-634
+remove teacher=McGe* subject=Combinat* room=691-786 day=1-6 group=540-404
+print DAY GROUP ROOM SUBJECT TEACHER sort DAY GROUP SUBJECT TEACHER
+select teacher=Rolli* subject=Topolog* day=2-7 period=7-1 group=195-200
+reselect teacher=Whiteh* subject=Programmi* day=3-5 period=3-7
+reselect teacher=Sha* subject=Arithme* room=197-60 day=6-3 period=4-3
+select subject=PE* room=569-983 period=7-3 group=23-667
+reselect teacher=St* subject=* room=530-339 day=6-4 period=3-7 group=512-130
+reselect room=251-287 day=5-7 period=1-3 group=621-604
+remove teacher=P* day=2-3
+remove period=5-5
+select teacher=Moo* subject=Ari* room=900-525 day=6-1 period=3-6
+insert teacher=Abrams subject=Probability room=917 day=7 period=3 group=415
+insert teacher=Kirby subject=PE room=987 day=5 period=1 group=353
+insert teacher=Chang subject=PE room=876 day=2 period=3 group=190
+print ROOM SUBJECT TEACHER sort DAY
+print GROUP PERIOD ROOM SUBJECT TEACHER sort DAY GROUP PERIOD ROOM TEACHER
+reselect teacher=R* subject=Statis* room=250-576 period=4-5 group=245-512
+remove subject=Prob* group=203-193
+insert teacher=Schultz subject=Statistics room=555 day=7 period=1 group=538
+insert teacher=Logan subject=Programming room=730 day=2 period=1 group=557
+print DAY GROUP ROOM sort DAY TEACHER
+insert teacher=Craig subject=Programming room=713 day=2 period=4 group=399
+reselect subject=* room=219-631 day=5-6 period=4-5 group=318-361
+insert teacher=Warren subject=Applications room=254 day=1 period=3 group=362
+insert teacher=Fitzpatrick subject=Applications room=68 day=5 period=2 group=406
+select teacher=Herb* day=4-7 period=2-7 group=178-13
+select teacher=Everett* subject=Number* day=3-3 group=154-46
+remove teacher=P* subject=Geom* room=198-70 day=4-3 period=3-7 group=236-462
+print DAY SUBJECT TEACHER sort DAY GROUP SUBJECT TEACHER
+remove teacher=M* subject=Arithmet* room=495-937 day=5-7 period=7-6
+insert teacher=Rosenberg subject=Topology room=168 day=3 period=1 group=87
+select teacher=Hu* subject=PE* room=46-715 period=6-6
+reselect teacher=H* room=274-908 day=7-7 period=5-3
+print DAY PERIOD ROOM sort DAY
+print sort
+select teacher=Godw* subject=Analysis* room=610-473 day=6-4 period=5-3 group=191-442
+reselect teacher=Collin* day=5-3 period=6-7 group=415-251
+remove teacher=Sims* subject=An* room=440-87 period=4-3 group=287-30
+reselect teacher=R* subject=Topolo* room=216-237 day=4-2 period=6-7 group=195-676
+select teacher=Ba* subject=Prog* room=483-560 day=2-2 period=2-5 group=679-281
+remove teacher=Cline* room=857-85 day=1-7 period=3-1 group=394-219
+insert teacher=Spivey subject=NumberTheory room=115 day=6 period=6 group=81
+reselect teacher=Hoga* room=41-729 day=7-1 period=3-2 group=113-37
+remove teacher=Hub* subject=Calcul* room=23-581 day=3-1 period=6-1 group=653-669
+insert teacher=Braswell subject=Topology room=972 day=3 period=2 group=242
+select teacher=Be* subject=Probability* room=938-14 day=7-3 period=7-2 group=527-583
+insert teacher=Farrell subject=Analysis room=444 day=1 period=6 group=533
+reselect teacher=Ivey* subject=Statisti* day=3-1 period=2-4 group=686-514
+insert teacher=Gilbert subject=Arithmetic room=105 day=6 period=4 group=301
+remove teacher=Fro* day=1-1 period=7-2 group=623-617
+print GROUP PERIOD ROOM SUBJECT TEACHER sort
+reselect subject=An* room=182-200 day=3-7 period=2-3
+reselect teacher=Gar* subject=Trigon* room=332-347 day=3-1 period=4-5
+remove teacher=Goodm* room=434-853 day=7-5 group=529-51
+print sort GROUP PERIOD ROOM SUBJECT TEACHER
+remove period=1-4
+print sort DAY ROOM
+print sort SUBJECT TEACHER
+print GROUP PERIOD sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+remove subject=Analy* room=639-416 period=4-5 group=457-681
+select subject=T* room=620-713 day=1-4 period=1-1 group=586-459
+select teacher=C* subject=Analysis* room=131-865 period=4-5 group=394-422
+remove teacher=Brook* day=5-6
+select teacher=Garrison* period=5-3 group=319-606
+select teacher=Ro* subject=Co* room=650-443 day=4-6 period=5-1
+remove teacher=Lamm* subject=* room=211-126 day=2-3 group=513-340
+remove teacher=* subject=App* room=944-868 day=5-5 period=3-4 group=353-597
+insert teacher=Law subject=NumberTheory room=374 day=3 period=5 group=500
+select teacher=Sol* subject=PE* period=1-2 group=699-498
+reselect room=498-888 day=2-3 period=3-4 group=379-434
+insert teacher=Andrews subject=Topology room=588 day=4 period=5 group=461
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+select teacher=Ma* subject=* room=641-47 day=6-4 period=5-6
+remove teacher=Shannon* room=114-799 day=4-4 period=5-5 group=530-381
+insert teacher=Fields subject=Applications room=319 day=3 period=5 group=117
+insert teacher=Wrenn subject=Algebra room=583 day=2 period=5 group=5
+select subject=Analysi* room=545-280 day=3-4 group=110-672
+reselect teacher=Pollock* subject=* day=3-2 group=637-408
+remove teacher=H* subject=Topology* day=5-1 period=6-2 group=43-138
+reselect teacher=P* subject=Probab* room=149-962 group=497-420
+insert teacher=Quinn subject=Logic room=914 day=6 period=6 group=349
+print ROOM sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+insert teacher=Burke subject=Topology room=467 day=7 period=7 group=569
+reselect teacher=* room=239-48 day=7-7
+select teacher=Bra* subject=Calc* room=242-301 period=2-7 group=586-596
+remove teacher=Benson* subject=Top* room=72-359 day=2-1 period=1-6
+reselect teacher=Holl* subject=NumberT* room=804-199 day=6-1 period=2-6 group=221-73
+print DAY PERIOD ROOM SUBJECT TEACHER sort DAY SUBJECT
+remove teacher=Shaw* subject=Programmi* room=962-900 period=4-3
+insert teacher=Blackwell subject=NumberTheory room=805 day=5 period=4 group=252
+insert teacher=Fischer subject=Analysis room=298 day=5 period=4 group=48
+select teacher=Cummin* room=842-453 group=688-174
+insert teacher=Epstein subject=PE room=617 day=2 period=2 group=523
+remove subject=Ca* room=85-597 day=6-5 period=4-3 group=498-144
+reselect room=175-712 day=3-4 group=638-18
+reselect subject=* period=2-2
+insert teacher=Byrne subject=Topology room=240 day=6 period=4 group=159
+remove teacher=Ho* subject=Probabil* room=563-578 period=2-4 group=674-507
+print DAY PERIOD TEACHER sort ROOM SUBJECT
+insert teacher=Miles subject=Calculus room=776 day=3 period=7 group=241
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort SUBJECT TEACHER
+reselect subject=Tri* period=6-2
+print SUBJECT TEACHER sort DAY PERIOD ROOM SUBJECT TEACHER
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY ROOM
+reselect subject=* room=992-404
+print GROUP PERIOD SUBJECT TEACHER sort DAY TEACHER
+print DAY PERIOD ROOM SUBJECT TEACHER sort DAY GROUP PERIOD
+print GROUP PERIOD ROOM SUBJECT TEACHER sort
+insert teacher=Strauss subject=Calculus room=191 day=7 period=2 group=254
+print PERIOD ROOM sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+remove teacher=Lam* subject=Topolog* room=230-17 day=4-7 period=6-2 group=406-425
+remove teacher=Proc*
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort TEACHER
+reselect subject=St* day=6-2 period=5-6
+reselect teacher=M* room=809-741 day=1-4 period=5-4
+select teacher=* subject=NumberTheo* room=289-292 day=4-7 period=1-7 group=376-546
+remove teacher=* subject=Al* day=3-4 period=5-3
+insert teacher=Mayo subject=Logic room=743 day=6 period=5 group=530
+print GROUP PERIOD sort GROUP ROOM SUBJECT TEACHER
+insert teacher=Black subject=Arithmetic room=107 day=7 period=3 group=586
+select subject=Appli* room=9-372 day=1-3 period=7-3 group=231-265
+insert teacher=Keller subject=Applications room=195 day=7 period=7 group=564
+insert teacher=Tyson subject=Probability room=360 day=5 period=4 group=101
+insert teacher=Elmore subject=Calculus room=188 day=1 period=5 group=62
+reselect teacher=Leonard* subject=* room=952-221 day=1-1 group=574-430
+print PERIOD sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+remove teacher=Welc* subject=Geometr* room=66-752 day=7-4 period=3-6 group=11-410
+select subject=Tr* day=3-5 period=4-1
+reselect teacher=Teague* subject=Arithm* room=360-820 period=7-2 group=466-532
+insert teacher=O'Brien subject=Calculus room=767 day=1 period=7 group=542
+insert teacher=Adkins subject=Geometry room=927 day=1 period=2 group=190
+insert teacher=Erickson subject=PE room=273 day=3 period=1 group=32
+reselect teacher=Su* subject=Log* day=6-6
+reselect teacher=Gould* room=118-452 period=7-2 group=671-530
+insert teacher=Odom subject=Analysis room=927 day=6 period=6 group=426
+print DAY PERIOD TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+remove teacher=G* day=3-2 period=2-2 group=626-303
+insert teacher=Brady subject=Algebra room=180 day=3 period=7 group=616
+select room=789-868 day=6-7 period=1-5 group=466-527
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort
+insert teacher=Clarke subject=Topology room=535 day=1 period=1 group=138
+print sort
+reselect teacher=Wood* subject=T* room=893-302 day=1-7 period=4-4 group=454-577
+reselect teacher=Collins* subject=Combinatoric* room=143-194 day=6-3
+insert teacher=Sanchez subject=Probability room=647 day=7 period=6 group=262
+remove teacher=Epst* subject=Anal* room=757-22 day=6-5 period=3-5 group=626-170
+print DAY GROUP ROOM TEACHER sort DAY PERIOD ROOM SUBJECT TEACHER
+remove teacher=Frede* subject=Analysis* room=915-871 day=5-7 group=424-43
+reselect teacher=Bo* subject=Top* day=7-7 period=5-1 group=73-492
+remove teacher=Ne* subject=Application* group=377-475
+select teacher=Math* room=695-834 day=7-4 period=7-6 group=456-185
+select teacher=Sta* room=262-476 day=1-4 period=2-5 group=40-586
+insert teacher=Ennis subject=Arithmetic room=350 day=1 period=5 group=205
+remove teacher=Walton* subject=Appl* room=98-448 period=3-5
+select subject=Pr* room=696-951 period=2-2 group=293-507
+remove teacher=C* subject=* room=687-683 period=2-2 group=6-331
+print DAY PERIOD ROOM SUBJECT sort
+insert teacher=Bell subject=Geometry room=460 day=5 period=3 group=317
+reselect subject=C* day=4-3 period=7-4 group=477-487
+insert teacher=Whitehead subject=Topology room=643 day=7 period=5 group=620
+select teacher=Sil* subject=Nu* room=123-150 day=2-7 group=438-535
+reselect teacher=McLamb* subject=Numb* room=780-226 day=3-1 period=1-6 group=506-591
+remove teacher=Zha* subject=P* day=6-5 period=2-1 group=454-308
+select teacher=T* subject=Pr* room=728-185 day=4-6 period=7-2 group=556-511
+reselect teacher=Hawle* room=247-669 period=4-6
+select teacher=Dunl* subject=Trigo* day=3-7 period=6-6 group=582-470
+print sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+remove teacher=Goodwin* room=566-21 day=3-7 group=351-318
+select teacher=Donn* subject=NumberThe* room=927-544 day=7-7 period=4-7
+select teacher=G* subject=NumberT* room=924-742 period=5-2 group=347-581
+remove day=7-7 period=2-7 group=694-637
+insert teacher=Hubbard subject=Combinatorics room=387 day=3 period=2 group=439
+remove teacher=Sco* subject=Trigono* room=153-259 day=1-4 period=6-3 group=1-455
+insert teacher=Lowe subject=Logic room=486 day=5 period=4 group=666
+select room=107-781 period=7-2 group=487-204
+print SUBJECT TEACHER sort ROOM SUBJECT TEACHER
+insert teacher=Woods subject=Analysis room=554 day=7 period=5 group=661
+insert teacher=McKenzie subject=Trigonometry room=442 day=3 period=5 group=255
+reselect teacher=Thorn* subject=T* room=601-472 day=4-7 period=7-2 group=213-689
+select teacher=G* subject=Algebra* room=768-847 day=7-7
+insert teacher=Todd subject=Applications room=361 day=7 period=6 group=520
+insert teacher=Armstrong subject=Combinatorics room=847 day=3 period=6 group=606
+select room=316-440 period=3-4 group=613-263
+select teacher=P* subject=* room=379-420 day=4-2 period=6-2 group=161-583
+reselect subject=N* room=900-191 day=4-5
+select teacher=R* subject=Geomet* room=491-95 day=4-6 period=4-2 group=693-443
+print DAY GROUP PERIOD SUBJECT TEACHER sort GROUP PERIOD ROOM SUBJECT TEACHER
+remove teacher=Wil* subject=P* room=96-727 day=1-4 group=46-699
+reselect teacher=Hami* room=568-674 day=2-3 period=2-3 group=36-533
+remove subject=Arithmeti* room=182-388 day=1-7 period=6-4 group=659-681
+insert teacher=Sutherland subject=NumberTheory room=523 day=5 period=2 group=412
+remove subject=N* day=4-1
+remove teacher=* subject=Arithme* room=624-382 day=1-7 period=7-7
+insert teacher=Duke subject=Analysis room=910 day=7 period=3 group=317
+remove teacher=* subject=* room=971-584 day=4-1 group=196-589
+select teacher=Robb* period=1-5 group=376-373
+insert teacher=Davis subject=Topology room=187 day=4 period=2 group=297
+remove teacher=Alford* subject=Probability* room=367-277 day=5-7 group=667-260
+insert teacher=Bland subject=PE room=833 day=1 period=5 group=513
+print GROUP PERIOD ROOM SUBJECT sort SUBJECT
+print PERIOD ROOM sort GROUP PERIOD ROOM SUBJECT
+insert teacher=Donovan subject=Logic room=336 day=7 period=2 group=4
+print sort DAY GROUP PERIOD ROOM TEACHER
+print DAY GROUP PERIOD SUBJECT sort ROOM SUBJECT TEACHER
+insert teacher=Golden subject=Statistics room=916 day=1 period=1 group=670
+select teacher=W* subject=Ca* room=294-165 day=1-2 period=2-7
+insert teacher=Ingram subject=Statistics room=188 day=7 period=7 group=628
+remove teacher=* subject=Alg* room=160-805 period=1-5 group=107-52
+select teacher=* subject=Statist* room=617-395 period=4-3 group=589-576
+select subject=Al* room=96-370 period=2-1 group=615-6
+insert teacher=Walton subject=Calculus room=348 day=6 period=5 group=449
+insert teacher=Whitaker subject=PE room=703 day=1 period=1 group=60
+print DAY PERIOD ROOM SUBJECT sort DAY
+reselect teacher=* room=269-540 day=6-4 period=7-2 group=127-215
+remove teacher=K* subject=Calcul* room=984-13 day=3-3 group=310-15
+remove teacher=Lam* subject=Log* room=115-139 day=4-6 period=4-4 group=380-62
+insert teacher=Gillespie subject=Calculus room=34 day=7 period=5 group=134
+print sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+reselect room=861-538 day=3-1 group=600-35
+insert teacher=Archer subject=Calculus room=247 day=4 period=7 group=300
+select teacher=Gi* subject=T* period=7-2 group=219-414
+insert teacher=Tate subject=Geometry room=777 day=1 period=7 group=328
+insert teacher=Paul subject=Calculus room=784 day=3 period=2 group=636
+remove teacher=Sh* subject=Algebra* period=4-6 group=443-148
+remove teacher=* subject=PE* room=696-791 day=6-1 period=3-5
+insert teacher=Simmons subject=Analysis room=299 day=1 period=6 group=342
+print sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+remove teacher=* subject=An* day=5-4 period=5-6 group=545-408
+reselect teacher=Mc* subject=Probabil* room=654-619 day=6-3 period=1-2
+remove teacher=Humph* subject=Probab* room=542-491 day=2-4 period=6-7 group=336-76
+insert teacher=Livingston subject=Algebra room=606 day=1 period=5 group=442
+remove teacher=Woot* room=747-37 day=1-2 period=2-3 group=332-481
+print DAY GROUP PERIOD ROOM SUBJECT sort
+select teacher=H* subject=P* room=809-466 day=3-7 period=7-7 group=539-468
+remove teacher=* subject=* room=558-158 day=1-7 period=2-6 group=186-321
+reselect teacher=Dal* subject=St* day=6-5 period=3-6 group=606-25
+print GROUP TEACHER sort ROOM SUBJECT
+reselect teacher=Horne* subject=Programm* day=3-2 period=2-1 group=666-62
+remove teacher=Finley* subject=G* room=770-638 day=3-4 group=496-575
+insert teacher=McLeod subject=Topology room=733 day=4 period=6 group=498
+select teacher=McCart* subject=Probability* room=97-473 day=4-5 period=6-2 group=243-379
+insert teacher=Crane subject=Applications room=87 day=3 period=3 group=45
+remove subject=Proba* room=282-221 day=3-6 period=7-4 group=560-422
+print sort GROUP PERIOD SUBJECT
+print GROUP SUBJECT TEACHER sort PERIOD ROOM
+reselect teacher=Iv* subject=Statist* day=1-1 period=2-4
+print DAY PERIOD ROOM SUBJECT sort DAY PERIOD SUBJECT TEACHER
+print DAY PERIOD TEACHER sort DAY GROUP PERIOD ROOM SUBJECT
+insert teacher=Pope subject=Logic room=299 day=5 period=3 group=478
+insert teacher=Wallace subject=Programming room=424 day=3 period=3 group=209
+select teacher=Nas* subject=Probab* room=4-305 day=6-1 period=4-5 group=372-420
+insert teacher=McBride subject=PE room=429 day=1 period=6 group=667
+remove teacher=Riley* subject=Combinator* room=603-330 day=3-4 period=2-1 group=203-19
+remove teacher=Si* subject=Analys* room=285-848 period=3-4 group=532-411
+reselect room=113-554 period=6-6 group=253-135
+reselect subject=Geometr* room=322-12 day=3-4 group=619-422
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort GROUP PERIOD ROOM SUBJECT TEACHER
+reselect teacher=Go* subject=Topolog* room=33-543 period=5-6 group=589-508
+select teacher=* subject=* day=7-2 group=138-214
+remove teacher=* subject=Statist* room=435-577 period=4-3 group=320-585
+print DAY GROUP PERIOD SUBJECT TEACHER sort GROUP PERIOD SUBJECT TEACHER
+insert teacher=Hobbs subject=Topology room=942 day=5 period=4 group=299
+reselect teacher=Gros* subject=Sta* room=919-703 day=7-4 group=330-218
+remove teacher=Hwang* room=177-465 period=6-3 group=699-247
+reselect teacher=Wei* room=468-157 day=4-7 group=56-593
+select subject=To* room=898-754 group=39-435
+select subject=Numb* room=691-440 day=6-1 period=6-7 group=28-426
+select subject=Pr* room=998-474 period=6-5 group=196-506
+print sort DAY GROUP PERIOD ROOM TEACHER
+reselect teacher=S* subject=Log* room=891-536 day=3-5 period=6-2 group=49-391
+select teacher=* subject=Num* room=186-927 day=2-2 group=596-156
+select teacher=Wilkins* subject=Calcu* day=3-4 group=217-530
+print DAY SUBJECT sort TEACHER
+reselect teacher=Di* room=671-124 day=1-4 group=155-194
+remove group=408-328
+select teacher=Go* subject=Trigon* room=824-781 day=5-5 period=5-4 group=234-468
+insert teacher=Crawford subject=Calculus room=661 day=3 period=2 group=519
+insert teacher=Godfrey subject=Arithmetic room=202 day=2 period=7 group=226
+remove teacher=Tanne* subject=Progr* room=197-56 day=5-2 period=1-6 group=571-2
+select subject=Progr* room=284-480 day=6-2
+reselect subject=Anal* room=7-852 period=4-4 group=446-675
+insert teacher=Ellis subject=Combinatorics room=11 day=2 period=6 group=149
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort
+select teacher=Adk* room=866-714 day=6-7 group=481-565
+insert teacher=House subject=Trigonometry room=942 day=3 period=1 group=532
+insert teacher=Kay subject=Programming room=129 day=7 period=5 group=165
+remove teacher=* room=813-166 day=7-6 period=1-5
+insert teacher=McClure subject=NumberTheory room=876 day=5 period=5 group=407
+print sort GROUP PERIOD
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort
+insert teacher=Spence subject=Combinatorics room=770 day=6 period=5 group=15
+select subject=PE* room=55-640 day=7-3 period=1-3 group=608-125
+insert teacher=McCarthy subject=Applications room=228 day=1 period=3 group=177
+insert teacher=Hampton subject=Calculus room=386 day=6 period=5 group=524
+insert teacher=Welch subject=Probability room=339 day=2 period=2 group=551
+insert teacher=McFarland subject=Probability room=549 day=5 period=6 group=119
+insert teacher=Ashley subject=Applications room=554 day=2 period=5 group=561
+remove teacher=Stevens* subject=* room=130-551 day=2-1 period=6-1 group=323-636
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+print DAY GROUP sort GROUP PERIOD TEACHER
+insert teacher=Williamson subject=PE room=565 day=5 period=7 group=516
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY
+select teacher=H* subject=Tri* room=721-61 day=1-7 period=1-6 group=457-171
+insert teacher=Miller subject=Applications room=236 day=1 period=7 group=126
+remove teacher=Dia* subject=Tri* day=5-7 period=2-4 group=431-552
+select teacher=McCor* subject=Statistics* room=685-55 day=4-2 period=2-4
+remove teacher=Gay* room=855-92 period=6-3
+print sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+print GROUP ROOM TEACHER sort DAY PERIOD ROOM SUBJECT TEACHER
+print sort DAY GROUP SUBJECT TEACHER
+select subject=Ca* room=71-408 day=7-7 period=2-6 group=472-464
+select subject=Trigonom* day=7-6 group=450-73
+select teacher=J* subject=Statistics* day=3-6 period=2-6 group=570-426
+remove teacher=* subject=App* room=851-643 day=1-2 period=5-7
+remove teacher=Herndo* subject=Analys* room=196-583 day=1-2 period=6-6 group=269-566
+remove teacher=McConne* subject=Progr* day=7-6 period=6-5
+remove teacher=Duk* subject=Alg* room=410-217 day=2-3 period=2-3 group=563-59
+select teacher=B* subject=Applica* room=340-164 period=1-4 group=388-439
+remove teacher=Hayes* subject=NumberTh* day=4-2 period=6-4 group=169-194
+insert teacher=Vogel subject=Programming room=676 day=6 period=3 group=395
+reselect teacher=* subject=Algebra* room=944-455 day=7-2 period=4-6 group=283-345
+remove group=240-336
+select room=991-171 day=1-6 period=4-3 group=458-119
+insert teacher=McKay subject=Logic room=637 day=5 period=2 group=367
+reselect teacher=Le* subject=C* room=226-200 day=7-4 period=7-5
+print DAY GROUP TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+reselect teacher=Su* subject=Pr* day=1-3 period=6-2
+remove teacher=Morgan* subject=* room=380-388 day=7-3 period=4-1 group=90-382
+remove teacher=Bowma* subject=Statistics* room=268-405 period=5-4 group=655-617
+insert teacher=Sutherland subject=NumberTheory room=45 day=6 period=6 group=197
+reselect subject=* room=110-396 day=7-2 period=2-7
+remove teacher=Butler* subject=Applicat* room=427-222 period=6-2 group=499-577
+select subject=Calculu* room=781-895 day=7-4 period=2-2 group=345-54
+select teacher=Ste* subject=Calc* room=788-763 day=3-4 period=3-3 group=472-181
+insert teacher=English subject=Applications room=276 day=2 period=5 group=119
+select teacher=Blanch* subject=Pr* room=27-365 day=4-7
+insert teacher=Frost subject=Topology room=188 day=4 period=4 group=505
+insert teacher=Shapiro subject=Statistics room=984 day=3 period=3 group=578
+insert teacher=Elmore subject=Topology room=301 day=1 period=7 group=470
+insert teacher=Ball subject=PE room=451 day=7 period=3 group=192
+select teacher=* room=282-846 day=5-7 period=2-4 group=216-563
+reselect day=2-4 period=5-2
+remove teacher=Gallaghe* subject=Programmi* period=4-1 group=175-131
+remove teacher=Pal* subject=An* group=7-673
+remove subject=Program* room=7-330 period=1-1 group=100-653
+select teacher=* subject=Ar* room=330-196 period=3-6
+select room=745-164 day=4-2 period=3-6
+insert teacher=Hendricks subject=Programming room=783 day=6 period=1 group=480
+print DAY GROUP SUBJECT sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+print SUBJECT TEACHER sort DAY GROUP SUBJECT
+print GROUP PERIOD sort GROUP
+insert teacher=Gray subject=PE room=766 day=6 period=7 group=4
+insert teacher=Sanders subject=Statistics room=984 day=4 period=1 group=309
+select teacher=Golds* day=6-3 period=6-6
+reselect teacher=Schneid* subject=An* room=192-630 day=5-4 period=7-7
+print PERIOD sort DAY GROUP PERIOD SUBJECT TEACHER
+select subject=Probability* room=147-858 day=7-6 period=6-4 group=434-186
+print TEACHER sort GROUP PERIOD ROOM SUBJECT
+select teacher=Lutz* subject=* room=645-109 period=3-6 group=230-395
+print DAY GROUP ROOM SUBJECT sort DAY PERIOD ROOM SUBJECT TEACHER
+remove room=308-274 day=1-6 period=1-5 group=657-86
+remove teacher=Bo* subject=Arit* room=783-593 day=6-5 group=141-424
+select teacher=* room=981-903 day=3-7 period=6-4
+print sort DAY GROUP PERIOD ROOM
+select teacher=McDow* room=313-40 period=7-3
+print GROUP SUBJECT TEACHER sort DAY GROUP PERIOD ROOM SUBJECT
+reselect teacher=Rou* subject=Progr* room=20-657 period=5-6 group=175-675
+remove teacher=* subject=L* room=32-51 day=6-6 group=133-222
+remove teacher=Barke* subject=P* room=120-199 period=4-6 group=384-60
+reselect teacher=Ma* group=598-595
+print GROUP PERIOD ROOM sort
+select subject=Topolo* room=501-594 period=2-5 group=301-435
+insert teacher=Melton subject=Combinatorics room=389 day=4 period=6 group=600
+reselect teacher=Patric* subject=Logic* room=638-159 day=5-6 group=592-247
+insert teacher=Heath subject=Topology room=919 day=7 period=3 group=524
+reselect teacher=Pucket* subject=Algebra* room=986-896 day=3-1 period=4-6 group=351-156
+remove teacher=Simon* subject=NumberThe* day=3-7 group=151-432
+select room=12-524 day=5-4 period=6-1 group=476-233
+remove teacher=Lam* day=6-3 period=3-5
+reselect teacher=Wil* room=304-779 day=1-6 period=4-5 group=636-679
+select teacher=Presto* subject=Number* room=365-998 day=6-5 period=1-7 group=310-499
+remove teacher=McMil* subject=Cal* room=197-149 period=3-5
+select teacher=Sie* subject=Combi* room=745-340 day=6-1 period=5-6
+select teacher=Ro* subject=Stati* day=4-2 period=5-7 group=489-340
+insert teacher=Flynn subject=Arithmetic room=244 day=1 period=1 group=579
+insert teacher=Hawkins subject=Statistics room=809 day=7 period=7 group=468
+select teacher=Midd* subject=Trigonometr* room=813-976 day=5-1
+print DAY PERIOD SUBJECT sort DAY PERIOD ROOM SUBJECT TEACHER
+reselect teacher=Wy* room=631-676 day=6-7 period=1-1
+insert teacher=Hughes subject=Statistics room=35 day=4 period=1 group=662
+reselect subject=Combinat* room=645-579 day=3-6 period=6-7 group=448-204
+insert teacher=Kendall subject=Trigonometry room=850 day=6 period=4 group=251
+remove teacher=Ow* subject=Arithme* room=506-783 day=5-3 period=2-2
+insert teacher=Goldstein subject=Topology room=194 day=5 period=2 group=219
+insert teacher=Nolan subject=Topology room=693 day=6 period=5 group=339
+insert teacher=Guthrie subject=Analysis room=225 day=7 period=2 group=184
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort PERIOD
+reselect teacher=* room=504-700 day=6-6 period=6-1 group=4-535
+select teacher=McClure* day=7-7 period=3-5
+insert teacher=Abrams subject=Trigonometry room=530 day=7 period=1 group=593
+print sort DAY
+print sort DAY GROUP PERIOD SUBJECT TEACHER
+select teacher=Full* period=7-7 group=170-647
+print DAY GROUP ROOM SUBJECT TEACHER sort
+reselect subject=Topol* room=14-4 day=1-5 period=6-4 group=689-367
+select teacher=* subject=Combinatorics* room=626-407 period=7-3 group=504-360
+insert teacher=Herndon subject=Probability room=979 day=6 period=4 group=158
+print TEACHER sort DAY PERIOD ROOM SUBJECT TEACHER
+reselect teacher=J* subject=Sta* room=696-597 group=537-632
+insert teacher=Wong subject=NumberTheory room=404 day=2 period=7 group=103
+reselect teacher=Joyc* room=720-898 day=4-4 period=6-1 group=353-546
+reselect teacher=Chan* room=27-394 day=6-3 period=6-7 group=598-166
+insert teacher=Hauser subject=Logic room=768 day=7 period=4 group=578
+select teacher=Ham* room=288-746 day=6-3 period=2-6 group=344-146
+remove teacher=Atkins* room=281-745 day=6-5 period=2-1
+reselect teacher=Sharma* subject=*
+reselect teacher=Brow* subject=P* room=367-100 day=2-6 period=3-2 group=267-341
+reselect teacher=Nguye* subject=Alge* room=518-485 day=5-4 period=4-3 group=49-242
+select teacher=McCarth* room=864-374 day=4-1 period=5-5 group=331-65
+reselect teacher=H* room=869-45 day=7-4 period=5-3 group=665-458
+select teacher=Walke* room=175-924 period=3-6 group=203-218
+select teacher=B* subject=Analy* day=1-4 period=3-7 group=376-173
+print DAY PERIOD ROOM SUBJECT sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+reselect teacher=G* subject=Trig* day=3-3 group=618-347
+remove teacher=Yu* subject=Tr* room=544-49 group=436-421
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY ROOM SUBJECT
+print DAY sort DAY SUBJECT TEACHER
+remove teacher=Pierc* room=98-589 day=5-2 period=1-6 group=380-501
+select subject=Pro* day=6-6 period=2-3 group=284-550
+reselect teacher=C* subject=Appli* day=5-6 period=4-6 group=190-293
+remove subject=Prob* day=7-1 group=195-455
+remove subject=* room=147-864 day=2-5 period=7-1 group=415-44
+insert teacher=Holloway subject=PE room=323 day=5 period=6 group=545
+remove teacher=Schwar* subject=* room=166-822
+print DAY GROUP SUBJECT sort DAY GROUP PERIOD SUBJECT TEACHER
+remove teacher=Mayo* subject=Probabi* day=6-6 period=5-7 group=167-134
+print DAY PERIOD ROOM SUBJECT TEACHER sort DAY GROUP ROOM SUBJECT
+remove teacher=Schw* subject=Analysis* room=536-630 period=6-7 group=275-429
+reselect room=818-997 day=3-6 period=7-3 group=74-664
+reselect teacher=Caldwell* room=553-408 day=3-1 group=543-133
+insert teacher=Newton subject=Analysis room=153 day=7 period=7 group=56
+insert teacher=Houston subject=Programming room=231 day=3 period=5 group=460
+insert teacher=Austin subject=Algebra room=366 day=6 period=2 group=266
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort GROUP PERIOD SUBJECT TEACHER
+reselect teacher=Ri* subject=Calculu* room=768-874 day=4-7 group=34-298
+insert teacher=Steele subject=Analysis room=456 day=4 period=5 group=413
+print ROOM SUBJECT sort DAY GROUP
+insert teacher=Pugh subject=Trigonometry room=628 day=4 period=3 group=78
+insert teacher=Jensen subject=Calculus room=803 day=1 period=4 group=456
+print ROOM SUBJECT TEACHER sort DAY PERIOD ROOM SUBJECT TEACHER
+insert teacher=Ho subject=Applications room=693 day=3 period=7 group=456
+print DAY GROUP PERIOD SUBJECT TEACHER sort DAY GROUP PERIOD SUBJECT
+remove teacher=Lan* subject=Geometry* room=805-823 period=2-1 group=177-238
+insert teacher=Price subject=Topology room=233 day=1 period=3 group=102
+print DAY GROUP PERIOD TEACHER sort DAY TEACHER
+insert teacher=Cherry subject=Analysis room=557 day=7 period=3 group=43
+insert teacher=Davies subject=Logic room=883 day=3 period=1 group=125
+print DAY TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+select teacher=* subject=PE* room=889-739 day=1-2 period=7-2 group=259-221
+insert teacher=Hauser subject=Logic room=622 day=4 period=5 group=512
+remove teacher=* subject=Probabil* room=792-412 day=5-7 period=4-3 group=19-174
+print DAY GROUP ROOM SUBJECT TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+remove day=4-7 period=5-5
+reselect subject=*
+insert teacher=Thomson subject=PE room=211 day=2 period=7 group=456
+reselect subject=Nu* room=695-215 day=5-6 period=3-2 group=250-90
+print DAY GROUP PERIOD ROOM SUBJECT sort DAY PERIOD ROOM SUBJECT TEACHER
+insert teacher=Meyers subject=Programming room=344 day=4 period=6 group=601
+print GROUP ROOM sort DAY PERIOD SUBJECT
+remove teacher=W* subject=Algebr* day=7-3 period=3-7 group=219-410
+insert teacher=Riley subject=PE room=712 day=4 period=6 group=449
+print DAY PERIOD SUBJECT TEACHER sort DAY ROOM SUBJECT TEACHER
+insert teacher=Byers subject=Programming room=952 day=4 period=6 group=320
+insert teacher=Hewitt subject=Topology room=478 day=4 period=7 group=447
+insert teacher=Elmore subject=Probability room=291 day=2 period=2 group=683
+insert teacher=Wilson subject=Arithmetic room=16 day=6 period=6 group=144
+print DAY TEACHER sort DAY GROUP PERIOD SUBJECT
+insert teacher=Miles subject=Topology room=950 day=5 period=5 group=119
+reselect teacher=M* room=157-782 day=4-5 period=1-6
+print DAY PERIOD ROOM SUBJECT sort GROUP
+select teacher=N* day=2-1 period=1-7 group=548-535
+reselect teacher=Cochra* subject=* room=972-570 period=6-5 group=430-437
+select subject=Topo* room=905-752 day=3-3
+select teacher=Ru* subject=Prob* room=955-842 day=3-4 period=5-6 group=245-593
+print DAY GROUP ROOM SUBJECT sort SUBJECT
+select subject=P* room=782-540 day=5-5 period=3-5 group=680-203
+print DAY PERIOD ROOM TEACHER sort ROOM
+insert teacher=Zhu subject=Probability room=28 day=1 period=5 group=608
+insert teacher=Ingram subject=Probability room=468 day=1 period=4 group=438
+select teacher=* subject=S* room=501-732 day=7-4 group=256-677
+remove teacher=Winstea* subject=Logi* room=354-903 day=6-5 period=2-6 group=680-274
+insert teacher=Bowman subject=Calculus room=244 day=1 period=4 group=180
+insert teacher=Capps subject=Statistics room=916 day=5 period=1 group=116
+insert teacher=Currin subject=Logic room=471 day=5 period=6 group=363
+print DAY PERIOD SUBJECT sort
+select teacher=West* subject=Ar* room=66-244 day=7-2 period=4-1 group=639-75
+remove subject=Combina* room=269-691 day=4-3 period=2-6 group=418-365
+reselect subject=Lo* room=100-166 day=5-3 period=2-7 group=214-472
+insert teacher=Marshall subject=Analysis room=855 day=1 period=4 group=109
+remove teacher=Goodwi* room=851-696 day=5-5 period=1-3
+reselect teacher=Pri* subject=C* room=23-234 day=6-6 period=2-3 group=570-521
+select teacher=Ka* room=708-308 day=2-7 period=2-2 group=309-263
+remove teacher=Princ* day=1-4 period=2-5 group=171-233
+select teacher=Cran* subject=Applicat* room=780-414 day=2-3
+reselect teacher=Ste* room=716-595 period=4-6 group=580-331
+remove room=711-92 day=7-1 period=3-5 group=123-25
+remove subject=* room=306-450 day=7-3 period=3-3 group=232-48
+select teacher=Bradl* subject=Ana* day=2-4 period=6-1 group=486-180
+remove teacher=Bla* subject=Combinatoric* room=19-202 day=2-6 period=1-7 group=414-152
+remove subject=* room=640-763 period=2-2 group=670-175
+select teacher=T* subject=Sta* room=95-417 day=4-6 period=2-1
+insert teacher=McBride subject=Topology room=951 day=7 period=7 group=339
+insert teacher=Farrell subject=Topology room=928 day=7 period=2 group=216
+insert teacher=Merrill subject=Arithmetic room=917 day=1 period=3 group=153
+reselect teacher=Rodrigue* subject=Statisti* room=192-419 period=7-7
+remove teacher=Bow* subject=Top* room=540-73 day=7-7 group=197-659
+print sort GROUP PERIOD ROOM SUBJECT TEACHER
+insert teacher=Braun subject=PE room=224 day=7 period=6 group=476
+insert teacher=Carver subject=Probability room=311 day=1 period=2 group=578
+reselect teacher=Summer* subject=Probabili* room=752-876 period=3-5 group=690-46
+print ROOM sort DAY TEACHER
+insert teacher=Kang subject=Topology room=487 day=4 period=4 group=256
+select room=583-34 day=5-1 period=3-6 group=146-576
+remove teacher=Bo* subject=G* room=193-321 group=60-407
+print DAY GROUP PERIOD ROOM SUBJECT sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+remove teacher=Si* subject=Num* room=114-674 day=3-4 period=1-6
+print DAY GROUP SUBJECT TEACHER sort GROUP ROOM
+insert teacher=Mayer subject=PE room=944 day=7 period=3 group=254
+select teacher=Kerr* subject=* room=105-481 day=5-3 period=5-3 group=55-396
+select subject=Logi* room=4-18 day=2-1 group=319-414
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort GROUP PERIOD ROOM SUBJECT
+reselect teacher=Cu* subject=* room=96-651 day=7-3
+print sort GROUP PERIOD ROOM SUBJECT
+remove teacher=Sumner* subject=Logic* room=881-439 day=2-3 period=7-3 group=647-363
+print sort
+remove room=353-148 day=2-6 period=7-5 group=522-384
+select subject=NumberTheory* room=875-648 day=7-3 period=2-1
+select teacher=W* subject=* room=237-136 period=4-7
+remove teacher=St* subject=Geom* room=378-612 period=2-3 group=556-99
+insert teacher=Song subject=PE room=218 day=2 period=1 group=39
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY PERIOD ROOM SUBJECT TEACHER
+remove teacher=Br* subject=Top* day=7-5 period=6-4 group=106-230
+insert teacher=Chen subject=Probability room=98 day=1 period=4 group=117
+reselect teacher=Z* subject=Geometr* room=258-635 period=3-5 group=23-699
+insert teacher=Kennedy subject=Trigonometry room=784 day=5 period=1 group=227
+reselect teacher=Joh* subject=NumberT* day=5-3 group=67-140
+insert teacher=Perkins subject=NumberTheory room=857 day=7 period=1 group=254
+insert teacher=Carlson subject=Applications room=642 day=5 period=1 group=398
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY GROUP PERIOD TEACHER
+reselect teacher=R* room=855-856 day=3-2
+remove teacher=Pet* subject=A* room=458-146 day=4-7 group=440-385
+reselect teacher=Dy* subject=* room=662-209 day=3-2 period=2-3 group=629-448
+insert teacher=Powell subject=Statistics room=519 day=5 period=6 group=144
+remove teacher=Tanne* subject=Probabili* room=996-394 period=4-6 group=90-347
+remove teacher=Car* room=256-349 day=2-4
+print PERIOD ROOM SUBJECT TEACHER sort PERIOD SUBJECT
+reselect teacher=* subject=Applicati* day=7-7 period=5-4 group=377-482
+remove day=6-5 group=258-602
+select teacher=* subject=P* room=799-883 day=2-5 period=5-1
+insert teacher=Patton subject=Applications room=547 day=4 period=7 group=195
+reselect teacher=Le* subject=Programmi* room=661-612 day=2-3 period=1-6 group=251-267
+insert teacher=Shelton subject=Programming room=735 day=2 period=4 group=190
+reselect teacher=Hardison* subject=Trigono* room=221-834 day=5-5 period=5-2 group=253-455
+insert teacher=Nolan subject=Statistics room=727 day=1 period=5 group=416
+reselect teacher=Best* subject=Statist* room=180-889 period=1-3 group=368-55
+reselect teacher=Ter* day=6-7 period=4-1 group=548-233
+reselect teacher=R* day=2-4 period=3-4 group=99-330
+reselect subject=P* day=4-7 period=1-4
+reselect teacher=* subject=Ana* room=244-682 day=5-1 period=2-4 group=256-109
+insert teacher=Sellers subject=Topology room=830 day=4 period=1 group=617
+select subject=Geometry* room=705-741 day=1-1
+remove teacher=B* subject=* room=895-588 day=5-3
+remove teacher=A* subject=St* room=446-571 day=7-6 period=2-2 group=76-113
+reselect teacher=S* subject=Trigon* room=746-201 day=1-2 period=7-1
+print GROUP sort PERIOD ROOM TEACHER
+reselect teacher=* subject=* room=713-787 day=4-1 period=2-2 group=696-561
+insert teacher=Baldwin subject=Statistics room=164 day=3 period=6 group=89
+remove teacher=Gr* room=171-109 period=4-3 group=640-550
+remove teacher=Fred* subject=Application* room=663-72 group=58-488
+reselect teacher=Rosenbe* subject=Trigon* period=2-1
+remove teacher=Bran* subject=Probability* room=900-935 day=7-3 period=2-2
+remove teacher=* subject=Algeb* room=461-268 day=2-4 period=3-5 group=198-527
+print DAY GROUP SUBJECT TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+remove teacher=Bro* room=994-966 day=5-5 period=4-2 group=174-146
+select teacher=H* subject=Analy* room=357-897 day=3-5 period=5-3
+print ROOM sort DAY GROUP SUBJECT TEACHER
+insert teacher=Graves subject=NumberTheory room=698 day=7 period=4 group=194
+insert teacher=Weiss subject=Calculus room=863 day=5 period=1 group=59
+select teacher=Mars* subject=Combin* room=155-215 period=7-2
+select teacher=New* subject=Arithm* room=370-353 day=6-1
+print GROUP ROOM sort
+insert teacher=Baldwin subject=Logic room=556 day=2 period=1 group=590
+insert teacher=Durham subject=Arithmetic room=259 day=2 period=3 group=48
+insert teacher=McNeill subject=Applications room=735 day=6 period=3 group=580
+select teacher=* subject=Ana* room=765-845 period=2-3 group=266-635
+print TEACHER sort PERIOD SUBJECT TEACHER
+reselect teacher=He* day=5-5
+insert teacher=Gilliam subject=Arithmetic room=123 day=5 period=5 group=80
+insert teacher=McKay subject=Combinatorics room=310 day=2 period=7 group=310
+remove teacher=* subject=Prob* room=409-903 period=5-2 group=581-145
+select teacher=R* subject=Calc* room=681-867 day=2-5 period=5-1 group=482-565
+select teacher=Bl* subject=Analys* room=25-918 day=5-2 period=5-6
+print PERIOD sort ROOM TEACHER
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+insert teacher=Liu subject=Logic room=66 day=7 period=2 group=177
+reselect teacher=At* subject=Arithmetic* room=764-222 day=2-7 period=2-4 group=458-491
+select teacher=* room=160-457 group=502-336
+insert teacher=Schultz subject=Arithmetic room=419 day=6 period=7 group=166
+remove teacher=Crabtr* subject=NumberT* room=29-1 period=7-5 group=231-337
+print GROUP TEACHER sort
+select teacher=O'D* subject=Topology* room=376-769 day=5-7 period=2-2 group=514-587
+insert teacher=Hoover subject=Calculus room=904 day=3 period=7 group=305
+reselect subject=Calc* room=478-933 day=7-1 group=211-633
+print PERIOD sort GROUP PERIOD
+insert teacher=George subject=Programming room=442 day=5 period=6 group=694
+select teacher=Fo* room=349-554 day=3-5 period=4-6 group=412-141
+reselect room=168-861 day=4-5 period=7-3
+remove teacher=Dyer* subject=Appli* room=642-721 day=5-4 period=7-5 group=539-567
+insert teacher=Stafford subject=Geometry room=366 day=1 period=3 group=138
+reselect teacher=* subject=Algeb* room=282-323 day=1-1 group=503-581
+select teacher=G* room=946-131 day=5-2 period=6-7 group=183-195
+remove teacher=Hami* subject=* room=835-255 day=1-3 period=2-6 group=681-72
+insert teacher=Simmons subject=Topology room=45 day=5 period=7 group=102
+reselect teacher=H* subject=L* room=346-607 period=3-3 group=98-12
+insert teacher=Cates subject=NumberTheory room=684 day=2 period=7 group=503
+remove teacher=S* room=363-218 day=7-7 period=4-5 group=330-31
+reselect teacher=Whit* subject=Algebr* room=29-494 day=7-5 group=429-376
+print sort GROUP PERIOD SUBJECT TEACHER
+remove teacher=M* subject=Proba* room=974-263 day=4-7 period=2-2
+select subject=NumberTheory* room=509-788 day=1-3 period=7-6 group=574-668
+select teacher=* subject=NumberTheo* room=691-682 day=2-3 period=4-5
+insert teacher=Wright subject=Probability room=1 day=4 period=7 group=695
+select teacher=Ti* room=224-222 day=3-6 period=3-5
+select teacher=George* subject=Statisti* day=1-2 group=314-499
+select subject=Pr* room=963-47 day=5-7 period=4-5
+reselect teacher=Currie* subject=Ge* day=3-1 period=4-4 group=408-414
+remove teacher=Rosenb* subject=Cal* room=651-817 day=3-1 period=1-3
+insert teacher=May subject=Calculus room=416 day=3 period=5 group=423
+print ROOM sort DAY SUBJECT
+remove teacher=* room=978-690 day=5-4 period=2-1 group=17-13
+insert teacher=Wyatt subject=Applications room=702 day=7 period=7 group=674
+reselect teacher=G* subject=Co* room=524-32 day=4-5 period=2-4 group=683-461
+remove teacher=Huffma* subject=* room=261-583 period=4-4 group=126-467
+select teacher=Walto* room=561-154 day=4-6 period=3-2 group=272-455
+reselect teacher=K* room=581-864 day=5-2 period=6-2 group=185-401
+select teacher=Sp* group=610-132
+insert teacher=Berger subject=Probability room=694 day=3 period=4 group=324
+reselect teacher=* subject=Probab* room=665-189 day=3-1 period=5-3
+remove teacher=* subject=Calc* room=832-282 period=2-7 group=238-674
+remove teacher=Michae* room=303-123 day=6-1 period=2-5 group=278-292
+print ROOM sort
+select subject=Calcul* room=166-380 day=1-6 period=5-1
+select teacher=Rubin* subject=Statis* room=152-749 period=1-3 group=389-315
+remove teacher=F* subject=Combinatoric* room=262-559 day=6-5 group=355-674
+print DAY GROUP ROOM TEACHER sort DAY ROOM SUBJECT TEACHER
+remove teacher=S* subject=Algeb* room=838-392 day=2-1 period=3-6 group=475-630
+reselect teacher=Qui* subject=Sta* room=506-175 day=6-5 period=2-1 group=36-46
+insert teacher=Holmes subject=Algebra room=996 day=7 period=4 group=285
+remove teacher=* day=1-2 period=4-5 group=354-318
+select teacher=Lewis* subject=Probability* day=5-2 period=2-4 group=521-489
+insert teacher=Shore subject=Combinatorics room=916 day=3 period=5 group=68
+insert teacher=Day subject=PE room=833 day=1 period=5 group=119
+remove subject=Topolog* room=560-326 day=5-5 group=109-268
+print ROOM SUBJECT TEACHER sort
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY PERIOD TEACHER
+remove teacher=Bu* subject=Arithmetic* room=805-163 day=1-3 period=4-1 group=556-53
+print sort
+reselect teacher=Bla* subject=Algebra* room=487-809 day=5-4
+print DAY PERIOD ROOM TEACHER sort GROUP PERIOD ROOM TEACHER
+insert teacher=Creech subject=Topology room=304 day=4 period=3 group=672
+print DAY ROOM SUBJECT TEACHER sort DAY GROUP ROOM TEACHER
+remove teacher=Burn* subject=* room=10-874 day=6-3 period=3-2
+insert teacher=Murray subject=Calculus room=311 day=3 period=7 group=466
+remove teacher=* subject=A* day=7-4 group=601-135
+print sort DAY GROUP PERIOD SUBJECT
+select teacher=Chandl* subject=Trigonome* day=5-1 group=550-60
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY GROUP ROOM SUBJECT TEACHER
+insert teacher=Giles subject=NumberTheory room=630 day=7 period=3 group=234
+reselect teacher=Co* subject=Pr* room=140-876 day=4-4 period=6-3
+remove teacher=Ril* room=729-821 period=3-3 group=184-558
+insert teacher=Honeycutt subject=Logic room=975 day=7 period=7 group=26
+insert teacher=Gupta subject=Probability room=127 day=1 period=4 group=102
+select subject=Top* room=183-335 day=3-5
+reselect room=773-510 day=5-3 period=2-5 group=206-272
+remove teacher=Fernan* subject=* room=866-456 day=3-6 period=4-3
+print DAY GROUP PERIOD ROOM SUBJECT sort
+print DAY sort DAY GROUP PERIOD SUBJECT TEACHER
+insert teacher=Case subject=Programming room=701 day=5 period=7 group=457
+insert teacher=Upchurch subject=Trigonometry room=328 day=6 period=2 group=98
+print sort DAY GROUP PERIOD ROOM SUBJECT
+print DAY GROUP PERIOD SUBJECT TEACHER sort SUBJECT
+insert teacher=Honeycutt subject=PE room=228 day=5 period=5 group=201
+print ROOM sort DAY ROOM
+print DAY GROUP PERIOD ROOM TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+remove teacher=P* room=679-674 period=1-1 group=664-18
+insert teacher=McNeill subject=Programming room=125 day=1 period=1 group=432
+insert teacher=Bynum subject=Calculus room=41 day=5 period=1 group=535
+reselect subject=Anal* room=835-240 day=7-3 group=161-677
+insert teacher=Hernandez subject=PE room=730 day=7 period=1 group=635
+insert teacher=Jenkins subject=Algebra room=548 day=1 period=5 group=205
+remove room=368-254 day=2-4 period=7-7 group=287-344
+select room=692-639 day=7-3 period=7-1 group=426-112
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY GROUP ROOM SUBJECT TEACHER
+insert teacher=Buchanan subject=Probability room=818 day=5 period=2 group=301
+insert teacher=Stokes subject=Statistics room=95 day=7 period=7 group=467
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY GROUP ROOM SUBJECT TEACHER
+remove teacher=* subject=Combina* room=385-487 day=1-6 period=4-3 group=589-353
+insert teacher=Grant subject=Geometry room=783 day=2 period=3 group=148
+insert teacher=Dickinson subject=Probability room=663 day=2 period=3 group=412
+print sort PERIOD ROOM SUBJECT TEACHER
+print PERIOD ROOM SUBJECT TEACHER sort DAY PERIOD SUBJECT TEACHER
+remove teacher=Chap* subject=Nu* room=596-34 period=5-4
+select subject=Combinato* room=507-213 day=1-1 period=2-2
+remove teacher=Be* subject=Al* room=66-872 day=4-7 period=3-1 group=33-579
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort GROUP SUBJECT
+reselect teacher=G* subject=Combi* room=317-679 day=5-6 period=5-7 group=556-598
+select teacher=Rosenth* subject=Log* day=2-6 period=4-7 group=496-155
+print DAY TEACHER sort
+reselect teacher=Moo* subject=Programmin* room=65-634 group=480-550
+remove teacher=Blaloc* subject=Progr* room=637-221 day=4-3 period=3-3
+print sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+insert teacher=Dolan subject=Geometry room=110 day=6 period=1 group=315
+select teacher=Ster* subject=Anal* room=974-772 day=6-3 period=5-6 group=233-122
+reselect teacher=William* subject=Alge* day=3-6 period=1-2
+print sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+print GROUP PERIOD ROOM TEACHER sort GROUP ROOM SUBJECT
+reselect teacher=S* subject=Appli* room=299-472 period=6-6 group=499-82
+insert teacher=Currie subject=Combinatorics room=490 day=5 period=1 group=579
+select subject=Alg* room=353-249 period=1-3 group=44-312
+insert teacher=Lyons subject=Programming room=355 day=6 period=7 group=569
+select teacher=Duff* room=187-269 period=6-7 group=677-413
+remove teacher=Di* subject=A* room=543-682 day=4-7
+select subject=Com* period=3-1 group=610-611
+print GROUP SUBJECT sort DAY GROUP ROOM SUBJECT TEACHER
+remove teacher=* subject=Lo* room=92-669 group=195-586
+select teacher=Coates* subject=Geo* room=692-941 period=1-1 group=10-59
+print GROUP sort PERIOD SUBJECT TEACHER
+print ROOM SUBJECT TEACHER sort DAY GROUP PERIOD SUBJECT
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+print sort GROUP PERIOD ROOM TEACHER
+print DAY GROUP SUBJECT TEACHER sort ROOM SUBJECT TEACHER
+insert teacher=Joseph subject=Arithmetic room=613 day=2 period=6 group=1
+insert teacher=Frazier subject=Programming room=438 day=5 period=6 group=192
+remove teacher=S* room=759-339 day=3-4 period=5-5 group=357-95
+remove subject=Combinatoric* day=3-3 period=3-3 group=421-420
+insert teacher=Hayes subject=Programming room=550 day=2 period=3 group=163
+remove subject=* room=281-808 day=4-3 period=2-2 group=458-65
+insert teacher=Covington subject=Statistics room=490 day=5 period=2 group=318
+select room=388-677 day=7-3 period=3-3 group=579-549
+remove teacher=* subject=Prob* day=7-5 period=7-7
+reselect subject=L* room=741-108 period=5-1 group=353-170
+reselect teacher=Wo* subject=A* day=7-5 period=3-3 group=461-610
+reselect teacher=Vick* subject=Topol* room=860-162 day=4-6 period=4-4 group=108-488
+reselect subject=* period=2-7
+insert teacher=Cline subject=NumberTheory room=742 day=2 period=1 group=61
+remove teacher=Neal* subject=Top* room=976-290 day=4-2 group=330-364
+select teacher=Grimes* room=362-113 day=4-1 period=5-5
+reselect teacher=Black* subject=Combinat* room=803-838 group=697-465
+remove teacher=McLe* subject=Ar* room=160-164 period=4-7 group=492-470
+insert teacher=Goodwin subject=Statistics room=1000 day=1 period=3 group=484
+insert teacher=Hogan subject=Applications room=121 day=6 period=5 group=189
+print DAY GROUP PERIOD SUBJECT sort
+print DAY PERIOD ROOM SUBJECT TEACHER sort DAY ROOM SUBJECT
+select subject=P* day=7-7 period=6-7
+insert teacher=Roberson subject=Statistics room=424 day=7 period=2 group=361
+insert teacher=Ray subject=Topology room=562 day=5 period=4 group=624
+reselect room=203-178 day=4-4 period=5-7
+select teacher=Th* subject=* room=745-455
+reselect teacher=Conra* subject=* room=600-193 day=3-3 period=5-5
+insert teacher=Poe subject=Logic room=659 day=3 period=2 group=52
+select subject=Num* room=746-136 period=6-5 group=345-111
+insert teacher=Cochran subject=NumberTheory room=285 day=2 period=3 group=449
+insert teacher=Flynn subject=NumberTheory room=446 day=7 period=3 group=642
+insert teacher=Terry subject=Arithmetic room=887 day=5 period=1 group=532
+remove teacher=Wa* subject=Num* room=336-7 day=1-1 period=1-2
+select teacher=Ke* subject=Combinatorics* room=150-400 day=1-5 period=1-7 group=367-545
+print GROUP PERIOD SUBJECT sort DAY GROUP PERIOD ROOM
+insert teacher=McKenzie subject=Programming room=225 day=4 period=7 group=188
+select teacher=Bulla* subject=Arith*
+remove teacher=* room=243-915 period=7-7 group=192-404
+select subject=Calculu* room=981-478 day=2-6 period=3-4 group=223-532
+select teacher=Geo* subject=Calc* room=698-823 day=3-5 period=2-6 group=418-612
+select subject=Combinatorics* room=734-82 period=3-2 group=142-296
+reselect teacher=Middleto* subject=A* room=211-639 day=2-1 period=3-6 group=188-305
+select teacher=* subject=Calculus* room=869-504 period=3-5 group=211-155
+print PERIOD ROOM TEACHER sort DAY
+insert teacher=Edwards subject=Statistics room=231 day=5 period=6 group=426
+reselect teacher=Ca* subject=P* day=6-3 group=504-610
+select teacher=Kerr* subject=P* room=730-827 period=6-5 group=408-5
+print DAY PERIOD ROOM SUBJECT TEACHER sort DAY GROUP PERIOD SUBJECT TEACHER
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY PERIOD SUBJECT TEACHER
+remove teacher=Sharm* subject=NumberT* room=569-389 day=1-1 period=1-1 group=674-618
+reselect subject=Ge* room=653-453 day=2-6 period=5-3 group=434-90
+print sort PERIOD TEACHER
+reselect subject=Progra* day=1-4 group=47-436
+remove teacher=Dod* subject=Algebra* room=306-895 day=7-6 period=5-3 group=118-203
+print DAY GROUP PERIOD ROOM sort DAY GROUP ROOM SUBJECT
+print DAY ROOM SUBJECT TEACHER sort DAY TEACHER
+remove room=331-845 day=7-6
+insert teacher=Ennis subject=Arithmetic room=637 day=6 period=6 group=129
+print DAY sort GROUP PERIOD
+select teacher=M* subject=Stati* room=464-489 day=4-7 period=4-2 group=292-471
+insert teacher=Mann subject=PE room=37 day=4 period=1 group=409
+remove teacher=Austi* subject=Topo* room=990-228 period=7-6 group=123-42
+remove teacher=D* subject=* period=5-4
+reselect teacher=Will* subject=Trigono* room=647-718 period=2-7 group=576-552
+print DAY GROUP ROOM SUBJECT TEACHER sort DAY PERIOD TEACHER
+insert teacher=Starr subject=Topology room=970 day=3 period=5 group=655
+remove teacher=M* subject=PE* room=338-703 day=1-1 period=7-4
+remove teacher=Ken* subject=Geometr* room=346-588 day=3-3 period=3-1 group=307-2
+remove room=16-248 day=3-7 period=6-3
+select teacher=Kauf* subject=Topo* room=45-357 period=3-1 group=45-632
+insert teacher=Braun subject=Statistics room=964 day=4 period=3 group=134
+print DAY PERIOD SUBJECT TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+insert teacher=Fields subject=Arithmetic room=907 day=1 period=5 group=354
+insert teacher=Glass subject=Trigonometry room=545 day=3 period=5 group=311
+select teacher=Warren* subject=Calcu* room=767-846 period=7-6 group=493-252
+select teacher=Feld* subject=* day=5-6 period=3-2
+select subject=Combinatori* room=79-378 day=6-5 group=248-88
+print PERIOD ROOM SUBJECT TEACHER sort PERIOD
+select day=4-1 group=264-634
+print DAY ROOM sort DAY GROUP SUBJECT
+select subject=P* group=403-413
+insert teacher=Tilley subject=Analysis room=48 day=5 period=1 group=613
+print GROUP PERIOD sort PERIOD ROOM TEACHER
+reselect teacher=* room=381-523 day=6-5 period=3-7 group=539-161
+select teacher=Ma* subject=Programmi* room=168-679 day=4-2 period=5-1 group=227-138
+remove teacher=Sch* subject=A* day=1-6 group=421-445
+reselect teacher=Bean* subject=Algebr* room=877-477 day=3-2 period=6-3 group=23-103
+select teacher=Boyk* subject=Applications* day=2-7 period=1-3 group=99-74
+remove teacher=Enn* subject=* room=26-758 day=6-7 group=393-679
+insert teacher=Kessler subject=Programming room=706 day=1 period=3 group=618
+remove teacher=Ho* room=458-388 group=381-443
+select subject=Algebra* day=3-6 group=387-145
+insert teacher=Adkins subject=Combinatorics room=758 day=5 period=5 group=419
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort
+reselect teacher=Pitt* subject=An* day=1-6 period=6-4 group=86-651
+insert teacher=Kelly subject=Algebra room=132 day=1 period=1 group=276
+print GROUP PERIOD sort
+insert teacher=Franklin subject=Logic room=683 day=1 period=6 group=382
+remove teacher=Stanton* subject=Calculu* room=554-809 day=1-4 period=3-5
+insert teacher=Buckley subject=Arithmetic room=195 day=4 period=7 group=280
+reselect teacher=Cowa* subject=Statisti* room=458-509 day=1-6 period=1-6 group=258-139
+remove teacher=Mu* subject=Alg* room=822-68 day=5-3 period=5-3
+print GROUP PERIOD SUBJECT sort DAY GROUP PERIOD SUBJECT TEACHER
+remove subject=PE* room=836-839 period=3-7 group=40-602
+print GROUP ROOM sort PERIOD ROOM SUBJECT
+print DAY GROUP TEACHER sort DAY ROOM SUBJECT TEACHER
+print PERIOD TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+print DAY GROUP ROOM SUBJECT sort DAY PERIOD ROOM SUBJECT
+remove teacher=* subject=* room=209-189 period=4-6 group=109-298
+insert teacher=Hammond subject=Topology room=687 day=6 period=7 group=251
+select teacher=Abr* subject=Stat* room=85-551 day=6-4 period=1-4 group=594-581
+insert teacher=Griffith subject=Probability room=286 day=5 period=2 group=191
+remove teacher=Howe* subject=An* room=172-39 day=7-2 period=5-2 group=415-254
+select teacher=Mu* subject=PE* room=150-511 period=4-6 group=461-543
+insert teacher=Bloom subject=Logic room=684 day=1 period=4 group=341
+remove day=6-5 group=638-666
+reselect teacher=Swans* subject=Analys* day=5-1 group=150-450
+select subject=Topology* room=934-201 day=2-1 period=1-6 group=126-657
+insert teacher=McCoy subject=Programming room=452 day=6 period=2 group=316
+reselect teacher=Black* subject=Arit* room=487-440 day=1-2 period=2-1
+remove subject=NumberTheory* room=931-869 day=1-1 period=7-1 group=542-206
+select teacher=Ho* day=1-1 period=5-5 group=687-126
+print GROUP TEACHER sort
+print DAY sort GROUP SUBJECT
+print PERIOD SUBJECT TEACHER sort
+insert teacher=Lee subject=Programming room=993 day=2 period=2 group=635
+select teacher=Syk* subject=Geometry* room=307-122 day=6-4 group=656-631
+reselect subject=L* room=696-614 day=5-7 period=4-1
+remove teacher=G* room=773-286 day=5-7 period=6-3 group=136-520
+reselect teacher=* subject=Top* room=139-657 day=3-6 period=7-4 group=605-584
+reselect subject=PE* group=412-53
+print DAY PERIOD SUBJECT TEACHER sort DAY GROUP PERIOD SUBJECT TEACHER
+insert teacher=Koch subject=Calculus room=796 day=7 period=2 group=602
+insert teacher=Hubbard subject=NumberTheory room=435 day=4 period=6 group=628
+select subject=Topology* room=852-173 day=3-3 period=2-6 group=294-295
+select teacher=Cam* subject=* day=3-1 period=4-7 group=5-664
+reselect subject=* day=7-5 period=2-4 group=342-9
+insert teacher=Bowman subject=NumberTheory room=206 day=1 period=5 group=6
+select teacher=Harris* subject=PE* room=132-584 day=2-2 period=4-7 group=283-665
+reselect teacher=Sh* subject=Geomet* room=304-671 period=3-4 group=653-183
+print TEACHER sort DAY GROUP PERIOD ROOM SUBJECT
+remove teacher=Jone* subject=Nu* room=384-695 day=2-7 period=2-3 group=392-595
+select room=348-530 period=3-7 group=197-634
+insert teacher=Epstein subject=PE room=81 day=6 period=6 group=475
+remove teacher=* subject=NumberT* room=23-721 day=2-3 period=4-7
+print SUBJECT sort GROUP ROOM SUBJECT TEACHER
+reselect teacher=Pa* period=7-7 group=428-288
+print DAY PERIOD ROOM SUBJECT TEACHER sort DAY GROUP ROOM TEACHER
+remove teacher=B* room=816-40 day=4-5 period=6-5 group=39-30
+select teacher=* subject=Combina* room=556-336 period=2-3 group=298-79
+print DAY GROUP ROOM SUBJECT TEACHER sort DAY PERIOD ROOM SUBJECT TEACHER
+remove teacher=* subject=Topology* room=642-84 day=6-5 group=563-17
+select teacher=G* subject=Combinato* room=446-727 period=7-4
+select teacher=M* subject=Pr* room=254-183 period=5-3 group=670-384
+insert teacher=Rosenberg subject=Applications room=195 day=6 period=6 group=30
+remove teacher=Hu* subject=Trigo* day=5-6 period=3-1 group=500-497
+insert teacher=Hubbard subject=Arithmetic room=511 day=4 period=6 group=401
+select teacher=Wi* subject=PE* room=451-795 day=2-5
+remove teacher=M* room=422-671 period=5-7 group=322-3
+select teacher=Georg* room=903-308 day=4-4 group=235-689
+reselect teacher=Casey* subject=Prog* room=688-769 day=5-6 group=248-451
+select teacher=Bas* subject=P* period=7-3
+select teacher=Meado* subject=A* room=950-242 day=2-5 period=3-6 group=420-435
+insert teacher=Spencer subject=Algebra room=185 day=3 period=5 group=277
+print DAY GROUP ROOM SUBJECT TEACHER sort DAY PERIOD TEACHER
+insert teacher=Caldwell subject=Statistics room=127 day=3 period=5 group=375
+reselect subject=Stat* room=690-710 day=7-6 period=2-6
+select subject=Appl* room=634-998 day=5-7 group=170-494
+remove teacher=* subject=Probability* day=7-1 period=2-6 group=258-527
+print PERIOD SUBJECT TEACHER sort DAY GROUP SUBJECT
+insert teacher=Clapp subject=Topology room=437 day=6 period=7 group=260
+reselect subject=Co* group=134-545
+remove subject=To* room=99-150 day=3-4 group=625-468
+insert teacher=Kennedy subject=Calculus room=229 day=1 period=4 group=361
+insert teacher=Aldridge subject=Trigonometry room=508 day=5 period=3 group=601
+print DAY GROUP PERIOD SUBJECT TEACHER sort GROUP
+insert teacher=Jenkins subject=Trigonometry room=85 day=7 period=5 group=32
+print sort DAY GROUP PERIOD ROOM TEACHER
+select teacher=* subject=Ap* room=887-297 period=7-6 group=654-311
+select teacher=A* subject=Trigono* day=1-7
+print GROUP PERIOD SUBJECT TEACHER sort DAY GROUP PERIOD SUBJECT TEACHER
+print PERIOD SUBJECT TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+insert teacher=Tucker subject=Applications room=492 day=5 period=3 group=420
+print GROUP SUBJECT TEACHER sort DAY GROUP ROOM SUBJECT
+select subject=* room=372-616 day=3-5 period=2-5
+print PERIOD ROOM sort DAY GROUP PERIOD TEACHER
+reselect teacher=* subject=Combinato* day=7-6 period=2-1 group=75-165
+reselect subject=Arithmet* room=957-211 day=2-7
+print sort DAY GROUP PERIOD ROOM TEACHER
+remove room=570-43 day=4-4 period=1-6
+select teacher=D* subject=Alge* room=314-337 day=4-5 period=6-2 group=559-346
+reselect teacher=Singh* subject=Combinat* day=3-3 period=1-7 group=451-106
+print DAY ROOM SUBJECT TEACHER sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+remove teacher=Curt* group=151-547
+insert teacher=Copeland subject=Combinatorics room=125 day=1 period=3 group=543
+select subject=* room=926-279 day=3-2 period=2-6
+print sort DAY TEACHER
+print sort DAY SUBJECT TEACHER
+insert teacher=Snyder subject=Analysis room=378 day=2 period=7 group=668
+reselect teacher=Mars* subject=Applicatio* room=607-548 day=4-4 period=7-4 group=37-53
+print DAY GROUP ROOM SUBJECT sort DAY GROUP PERIOD ROOM SUBJECT
+remove teacher=Adco* subject=Pro* room=937-61 period=2-6
+reselect teacher=Hamric* subject=PE* room=205-944 day=2-1 period=2-2 group=625-187
+remove teacher=Terr* subject=NumberTheo* period=1-2 group=10-195
+print DAY PERIOD ROOM SUBJECT sort DAY GROUP PERIOD ROOM SUBJECT TEACHER
+select room=383-308 day=5-2 period=4-5 group=38-694
+insert teacher=Booth subject=NumberTheory room=806 day=6 period=3 group=441
+insert teacher=Freeman subject=Statistics room=686 day=6 period=5 group=200
+print DAY ROOM SUBJECT TEACHER sort GROUP PERIOD SUBJECT TEACHER
+insert teacher=Hinson subject=PE room=358 day=7 period=3 group=71
+reselect teacher=Kirk* subject=Numbe* room=741-921 period=1-1 group=220-505
+print DAY GROUP PERIOD ROOM SUBJECT TEACHER sort DAY GROUP ROOM SUBJECT
+print sort ROOM
+print sort DAY PERIOD ROOM SUBJECT
+reselect subject=P* period=6-2 group=110-386
+stop
